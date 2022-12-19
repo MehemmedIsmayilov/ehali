@@ -1,0 +1,15 @@
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\bin\Debug\net6.0\Ehali.exe
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\bin\Debug\net6.0\Ehali.deps.json
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\bin\Debug\net6.0\Ehali.runtimeconfig.json
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\bin\Debug\net6.0\Ehali.dll
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\bin\Debug\net6.0\Ehali.pdb
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\obj\Debug\net6.0\Ehali.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\obj\Debug\net6.0\Ehali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\obj\Debug\net6.0\Ehali.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\obj\Debug\net6.0\Ehali.AssemblyInfo.cs
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\obj\Debug\net6.0\Ehali.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\obj\Debug\net6.0\Ehali.dll
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\obj\Debug\net6.0\refint\Ehali.dll
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\obj\Debug\net6.0\Ehali.pdb
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\obj\Debug\net6.0\Ehali.genruntimeconfig.cache
+C:\Users\Mehemmed\source\repos\Ehali\Ehali\obj\Debug\net6.0\ref\Ehali.dll
